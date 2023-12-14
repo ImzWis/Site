@@ -1,0 +1,66 @@
+{
+  "store": {
+    "name": "TireFix Tools & Equipment",
+    "description": "Your One-Stop Shop for Tire Repair Solutions",
+    "website": "https://www.tirefixtools.com",
+    "contact": {
+      "email": "info@tirefixtools.com",
+      "phone": "+1 (555) 123-4567",
+      "address": {
+        "street": "123 Main Street",
+        "city": "Tireville",
+        "state": "CA",
+        "postalCode": "12345",
+        "country": "United States"
+      }
+    },
+    "categories": [
+      {
+        "id": 1,
+        "name": "Tire Patch Kits",
+        "description": "Everything you need to patch up those pesky tire punctures.",
+        "products": [
+          {
+            "id": 101,
+            "name": "Deluxe Tire Patch Kit",
+            "description": "A comprehensive kit for repairing various tire types.",
+            "price": 49.99,
+            "stock": 100,
+            "image": "deluxe_patch_kit.jpg"
+          },
+          {
+            "id": 102,
+            "name": "Motorcycle Tire Patch Kit",
+            "description": "Specialized kit for motorcycle tire repairs.",
+            "price": 29.99,
+            "stock": 50,
+            "image": "motorcycle_patch_kit.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Tire Inflators",
+        "description": "Keep your tires properly inflated at all times.",
+        "products": [
+          {
+            "id": 201,
+            "name": "Digital Tire Inflator",
+            "description": "An easy-to-use inflator with digital display.",
+            "price": 34.99,
+            "stock": 75,
+            "image": "digital_inflator.jpg"
+          },
+          {
+            "id": 202,
+            "name": "Portable Air Compressor",
+            "description": "A compact air compressor for on-the-go inflation.",
+            "price": 59.99,
+            "stock": 60,
+            "image": "portable_compressor.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
